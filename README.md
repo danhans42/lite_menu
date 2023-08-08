@@ -75,11 +75,21 @@ Anyway, the above was followed up quickly by an email (to my private address) wi
 
 I replied to the above, probably completely unprofessionally, and then recieved another response. 
 
-Basically I told Matt that if he releases the promised update by August 13th (2023), I will not release my software and will send him the source. Otherwise on 13th Litemenu will be release, along with source.
+Basically I told Matt that if he releases the promised update by August 13th (2023), I will not release my software and will send him the source. Otherwise on 13th Litemenu will be released, along with source (here). Anyways, I hate drama - not sure on what direction to take.
 
-Please check back on August 13th for more information.
+Please check back on August 13th for more information/update.
 
 todaloo
+
+## Shouts n Greets
+
+Bigup to the all the lovely peeps over on psx.dev discord. (http://www.psx.dev/)
+Noca$h/Grumpycoder for the docs (the MD version is really nice) (https://psx-spx.consoledev.net/)
+Hitmen for releasing the source for hitserial all those years ago
+
+
+
+
 
 
 
