@@ -83,11 +83,12 @@ todaloo
 
 ## Shouts n Greets
 
-Bigup to the all the lovely peeps over on psx.dev discord. (http://www.psx.dev/)
-Noca$h/Grumpycoder for the docs (the MD version is really nice) (https://psx-spx.consoledev.net/)
-Hitmen for releasing the source for hitserial all those years ago
-
-
+* Bigup to the all the lovely peeps over on psx.dev discord. (http://www.psx.dev/)
+* Noca$h/Grumpycoder for the docs (the MD version is really nice) (https://psx-spx.consoledev.net/)
+* Hitmen for releasing the source for hitserial all those years ago
+* 8bitmods for MemcardPRO - Great device!
+* xyz for SD2PSX - open source memory card solution 
+  
 
 
 
