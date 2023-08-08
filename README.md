@@ -26,6 +26,10 @@ Litemenu on the otherhand uses no official Sony libs, hell it barely uses a deve
 Delete the existing MENU.SYS file from your SDcard, grab the latest release and copy MENU.SYS to the root of your SD card. 
 Instructions for building from source will be added shortly.
 
+## Litetool
+
+Litetool is the client for the serial server in litemenu. It lets you upload BIN/EXE files to your PSX as well as dumping memory. Like hitserial but a lot faster with a few more features. It runs at 1036800bps so its pretty nippy. See lite_tool folder for the client.
+
 ## Warning
 
 * DO NOT ATTEMPT TO MOUNT/USE THE ORIGINAL MENU.SYS USING LITEMENU - IT WILL NOT WORK AND IT WILL MAKE THE CART UPDATE ITSELF FROM SPI FLASH
