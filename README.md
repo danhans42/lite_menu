@@ -73,7 +73,7 @@ I recieved a (now deleted) comment on one of my videos from Matt (aka Shadow/Mat
 
 Kinda funny, I mean Matthew has done more than enough to absolutely rinse the reputation of both himself and his product but chooses to lash out like a petulant child.
 
-Anyway, the above was followed up quickly by an email (to my private address) with the title "Cybdyn Systems - New Menu Cease and Desist".
+Anyway, the above was followed up quickly by an email (to my private email address) with the title "Cybdyn Systems - New Menu Cease and Desist".
 
 <img  src="images/shadow_message2.PNG"></br>
 
