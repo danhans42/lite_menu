@@ -90,9 +90,11 @@ todaloo
 
 * Bigup to the all the lovely peeps over on psx.dev discord. (http://www.psx.dev/)
 * Noca$h/Grumpycoder for the docs (the MD version is really nice) (https://psx-spx.consoledev.net/)
-* Hitmen for releasing the source for hitserial all those years ago
-* 8bitmods for MemcardPRO - Great device!
-* xyz for SD2PSX - open source memory card solution 
+* Hitmen for releasing the source for hitserial all those years ago - http://hitmen.c02.at/
+* 8bitmods for MemcardPRO - Great device! https://8bitmods.com/accessories/memcard-pro/
+* xyz for SD2PSX - open source memory card solution  - https://sd2psx.net/
+* last and no means least - ps-iowned! https://github.com/ps-iowned/ps-iowned
+  
   
 
 
