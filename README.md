@@ -55,6 +55,7 @@ alpha sort on gamelist |yup|nope
 game artwork | yup| nope
 open source |nope|yup
 time to boot | fuckin ages mate | 2-3 seconds
+fw version | any | works on anything 2018+
 
 ## Features yet to be added/explored
 * Fast menu skipping/browsing
