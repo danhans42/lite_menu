@@ -32,11 +32,11 @@ def hex_type(s: str) -> int:
 	return int(s)
 
 class PSXCommand(IntEnum):
-	CMD_UPLOAD_FILE = 0x62
-	CMD_UPLOAD_EXE  = 0x63
-	CMD_DUMP        = 0x64
-	CMD_GOTO        = 0x65
-	CMD_REBOOT      = 0x72
+	CMD_UPLOAD_BIN = 0x62
+	CMD_UPLOAD_EXE = 0x63
+	CMD_DUMP       = 0x64
+	CMD_GOTO       = 0x65
+	CMD_REBOOT     = 0x72
 
 class PSX:
 	ser: serial.Serial = None
@@ -54,10 +54,10 @@ class PSX:
 	def reset(self) -> None:
 		self.ser = None
 
-	def upload_file(self, file: PathLike, addr: int) -> None:
+	def upload_bin(self, file: PathLike, addr: int) -> None:
 		size = file.stat().st_size
 		with file.open("rb") as f:
-			self.ser.write(pack("B", PSXCommand.CMD_UPLOAD_FILE))
+			self.ser.write(pack("B", PSXCommand.CMD_UPLOAD_BIN))
 			self.ser.write(pack("<I", addr))
 			self.ser.write(pack("<I", size))
 
