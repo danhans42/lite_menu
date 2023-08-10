@@ -122,9 +122,9 @@ def main() -> int:
 	with PSX(args.port) as psx:
 		if args.mode == "bin":
 			print(f"Uploading binary \"{args.file.name}\"...")
-			psx.upload_file(args.file, args.addr)
+			psx.upload_bin(args.file, args.addr)
 		elif args.mode == "exe":
-			print(f"Uploading PSX executable \"{args.file.name}\"...")
+			print(f"Uploading executable \"{args.file.name}\"...")
 			psx.upload_exe(args.file)
 		elif args.mode == "dump":
 			print(f"Dumping 0x{args.size:X} bytes @ 0x{args.addr:08X} to \"{args.file.name}\"...")
