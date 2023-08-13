@@ -84,12 +84,14 @@ Basically I told Matt that if he releases the promised update by August 13th (20
 
 Please check back on August 13th for more information/update.
 
-##UPDATE AUGUST 13TH
+## UPDATE AUGUST 13TH
 
 Apologies - I messed up, my memory isnt what it used to be.
 
+[Cringe Video ](https://youtu.be/WuivS3zvkfs)
+
 I actually gave Matt until 14th August, not 13th - apologies. I am true to my word so update will be tomorrow.
-As a booby prize - please see below for my pissy response to Matts email, and his subsequent response
+As a booby prize - please see below for my pissy response to Matts email, and his subsequent response.
 
 My response :-
 
